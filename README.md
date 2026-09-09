@@ -5,9 +5,9 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalharapasan&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kalhara84&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/kalharapasan?label=Followers&style=for-the-badge&color=0e75b6&labelColor=1a1a2e" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/Kalhara84?label=Followers&style=for-the-badge&color=0e75b6&labelColor=1a1a2e" alt="Followers" />
   &nbsp;
   <img src="https://img.shields.io/badge/Based%20In-Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0-0e75b6?style=for-the-badge&labelColor=1a1a2e" alt="Location" />
 </div>
@@ -52,7 +52,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;▸ I turn coffee into code and bugs into features ☕ → 💻
 
 ### 📬 Reach Me At
-&nbsp;&nbsp;&nbsp;&nbsp;▸ **kalharap84@gmail.com**
+&nbsp;&nbsp;&nbsp;&nbsp;▸ **pasansawmya@gmail.com**
 
 <br clear="right"/>
 
@@ -65,11 +65,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:kalharap84@gmail.com">
+  <a href="mailto:pasansawmya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Kalharapasan" target="_blank">
+  <a href="https://github.com/Kalhara84" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -255,17 +255,17 @@
   <table>
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalharapasan&theme=tokyonight" alt="GitHub Stats" height="200" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalhara84&theme=tokyonight" alt="GitHub Stats" height="200" />
       </td>
       <td align="center" valign="top">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalharapasan&theme=tokyonight" alt="Most Used Languages" height="200" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalhara84&theme=tokyonight" alt="Most Used Languages" height="200" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kalharapasan&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="68%" />
+  <img src="https://streak-stats.demolab.com?user=Kalhara84&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="68%" />
 </div>
 
 ---
@@ -273,7 +273,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=kalharapasan&theme=algolia&column=6&row=2&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" width="92%"/>
+  <img src="https://github-trophies.vercel.app/?username=Kalhara84&theme=algolia&column=6&row=2&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" width="92%"/>
 </p>
 
 ---
@@ -282,9 +282,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kalhara84/Kalhara84/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kalhara84/Kalhara84/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kalhara84/Kalhara84/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
@@ -301,7 +301,7 @@
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalharapasan&theme=tokyo-night&hide_border=true&area=true&custom_title=Kalhara%27s%20Contribution%20Graph&area_color=0e75b6&line=0e75b6&point=ffffff" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalhara84&theme=tokyo-night&hide_border=true&area=true&custom_title=Kalhara%27s%20Contribution%20Graph&area_color=0e75b6&line=0e75b6&point=ffffff" alt="Contribution Graph" width="95%"/>
 </p>
 
 ---
