@@ -252,9 +252,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalhara84&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalhara84&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" alt="Most Used Languages" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalhara84&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalhara84&theme=tokyonight&layout=donut&langs_count=8&hide_border=true" alt="Most Used Languages" />
 </p>
 
 <p align="center">
