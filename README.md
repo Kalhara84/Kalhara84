@@ -179,7 +179,7 @@
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
@@ -252,13 +252,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalhara84&theme=tokyonight" alt="GitHub Stats" height="200" />
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr align="center">
+      <td valign="top" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Kalhara84&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" />
       </td>
-      <td align="center" valign="top">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalhara84&theme=tokyonight" alt="Most Used Languages" height="200" />
+      <td valign="top" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalhara84&theme=tokyonight&layout=donut&langs_count=8&hide_border=true" alt="Most Used Languages" height="200" />
       </td>
     </tr>
   </table>
@@ -301,7 +301,7 @@
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalhara84&theme=tokyo-night&hide_border=true&area=true&custom_title=Kalhara%27s%20Contribution%20Graph&area_color=0e75b6&line=0e75b6&point=ffffff" alt="Contribution Graph" width="95%"/>
+  <img src="https://raw.githubusercontent.com/Kalhara84/Kalhara84/output/activity-graph.svg" alt="Contribution Graph" width="95%"/>
 </p>
 
 ---
