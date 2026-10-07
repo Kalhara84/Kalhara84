@@ -251,22 +251,15 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr align="center">
-      <td valign="top" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kalhara84&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" />
-      </td>
-      <td valign="top" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalhara84&theme=tokyonight&layout=donut&langs_count=8&hide_border=true" alt="Most Used Languages" height="200" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalhara84&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalhara84&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" alt="Most Used Languages" height="195" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kalhara84&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="68%" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kalhara84&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="70%" />
+</p>
 
 ---
 
