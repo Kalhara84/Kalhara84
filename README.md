@@ -294,7 +294,7 @@
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kalhara84/Kalhara84/output/activity-graph.svg" alt="Contribution Graph" width="95%"/>
+  <img src="https://activity-graph.vercel.app/graph?username=Kalhara84&theme=tokyo-night&hide_border=true&area=true&custom_title=Kalhara%27s%20Contribution%20Graph&area_color=0e75b6&line=0e75b6&point=ffffff" alt="Contribution Graph" width="95%"/>
 </p>
 
 ---
